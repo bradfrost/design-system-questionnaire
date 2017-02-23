@@ -3,12 +3,17 @@ A one-page questionnaire to help your organization establish an effective design
 
 # Basic Information
 
-- **What is the name of the design system? ** - A catchy and rememberable name can help a solid design system gain traction. Also, naming is hard. 
+- **What is the name of the design system?** - A catchy and rememberable name can help a solid design system gain traction. Also, naming is hard. 
 - **Where does the style guide live?** - The style guide (the container that houses the guts of the design system) should live in an easy-to-access location.
 - **Is your style guide publicly accessible?** (Yes, no, maybe, eventually). Making a style guide public [has many benefits](http://atomicdesign.bradfrost.com/chapter-5/#make-it-public).
 
 # Principles
-- **What design principles does your design system embrace?** These
+- **What design principles does your design system embrace?** [Design principles](https://principles.adactio.com/) underpin and influence every aspect of the design system. These 
+
+Good resources about design principles:
+- [Design principle roundup](https://principles.adactio.com/) by Jeremy Keith rounds up a ton of principles from a ton of different fields.
+- [Style guides examples](http://styleguides.io/examples.html) - Many public style guides showcase their design principles
+- [Creating Design Principles](https://articles.uie.com/creating-design-principles/) - Jared Spool talks about the qualities of effective design principles.
 
 # People 
 
