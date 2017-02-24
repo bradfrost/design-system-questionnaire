@@ -7,6 +7,8 @@ A one-page questionnaire to help your organization establish an effective design
 - **Where does the style guide live?** - The style guide (the container that houses the guts of the design system) should live in an easy-to-access location.
 - **Is your style guide publicly accessible?** (Yes, no, maybe, eventually). Making a style guide public [has many benefits](http://atomicdesign.bradfrost.com/chapter-5/#make-it-public).
 
+-------
+
 # Principles
 - **What design principles does your design system embrace?** [Design principles](https://principles.adactio.com/) underpin and influence every aspect of the design system. These 
 
@@ -15,7 +17,13 @@ Good resources about design principles:
 - [Style guides examples](http://styleguides.io/examples.html) - Many public style guides showcase their design principles
 - [Creating Design Principles](https://articles.uie.com/creating-design-principles/) - Jared Spool talks about the qualities of effective design principles.
 
-# People 
+# People
+- Who are the primary users of the design system?
+- Who are the prmimary makers of the design system?
+- Who is the primary owner of the design system?
+- Who are the key stakeholders?
+- Who are secondary stakeholders?
+- Are there third parties
 
 # Products
 
