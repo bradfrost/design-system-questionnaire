@@ -25,12 +25,14 @@ Good resources about design principles:
 - **Who are secondary stakeholders?**
 - **Are there third parties**
 
+# Communication
+- **What communication channels are used to **
+- What time
+
 # Products
 
-- **What products will the design system serve?**
-
-# Communication
-**
+- **What products will the design system serve?** - List the products the design system 
+- **Are there pilot projects meant to **
 
 ---------------
 
@@ -43,6 +45,8 @@ Good resources about design principles:
 - [ ] Pattern library - 
 - [ ] Code library - 
 
+- **What technologies are to be contained in the design system?** (Web, iOS, Android, Windows, etc)
+
 ---------------
 
 # Contributing 
@@ -52,13 +56,14 @@ Good resources about design principles:
 ---------------
 
 # Deployment
-- How are design system's components deployed into applications? 
-[Chasing the Holy Grail: Strategies For Distributing Your Pattern Library and Keeping It in Sync](https://medium.com/@marcelosomers/chasing-the-holy-grail-bbc0b7cce365#.3gjztlqve)
+- How are design system's components deployed into applications? See
+[Chasing the Holy Grail: Strategies For Distributing Your Pattern Library and Keeping It in Sync](https://medium.com/@marcelosomers/chasing-the-holy-grail-bbc0b7cce365#.3gjztlqve) for various strategies on how to deploy
+- How is versioning handled?
+- How are dependencies managed?
 
 ---------------
 
-
-## Style Guide
+# Tools and Technologies
 - **Are you using a [pattern library tool](http://styleguides.io/tools.html) to document your front-end architecture?**
 - **Where does your documentation live?** What are the links to the documentation?
 - **Who's responsible for maintaining and governing the documentation?**
