@@ -1,5 +1,5 @@
 # Design System Questionnaire
-A one-page questionnaire to help your organization establish an effective design systems and style guides.
+A one-page questionnaire to help your organization establish effective design systems and style guides.
 
 # Basic Information
 
