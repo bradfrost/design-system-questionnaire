@@ -10,23 +10,23 @@ A one-page questionnaire to help your organization establish effective design sy
 -------
 
 # Principles
-- **What design principles does your design system embrace?** [Design principles](https://principles.adactio.com/) underpin and influence every aspect of the design system. These 
+- **What design principles does your design system embrace?** [Design principles](https://principles.adactio.com/) underpin every aspect of the design system, and influence its construction. 
 
 Good resources about design principles:
-- [Design principle roundup](https://principles.adactio.com/) by Jeremy Keith rounds up a ton of principles from a ton of different fields.
 - [Style guides examples](http://styleguides.io/examples.html) - Many public style guides showcase their design principles
+- [Design principle roundup](https://principles.adactio.com/) by Jeremy Keith rounds up a ton of principles from a ton of different fields.
 - [Creating Design Principles](https://articles.uie.com/creating-design-principles/) - Jared Spool talks about the qualities of effective design principles.
 
 # People
 - **Who are the primary users of the design system?** Who are the people who will be primarily be reading the guidelines, making use of components, and
-- **Who are the prmimary makers of the design system?** - 
-- **Who is the primary owner of the design system?**
-- **Who are the key stakeholders?**
+- **Who are the prmimary makers of the design system?** - Who is responsible for . Provide names and roles.
+- **Who is the primary owner of the design system?** - Who is the primary person responsible for the design system's success
+- **Who are the key stakeholders?** - Who will primarily affect or be affected by the design system?
 - **Who are secondary stakeholders?**
-- **Are there third parties**
+- **Are there third parties involved?** - Are there any players outside of the organization (agencies, consultants, who will affect or be affected by the design system?
 
 # Communication
-- **What communication channels are used to **
+- **What communication channels are used to talk about the design system?** - The design system should plug into the organization's existing communication structure. Slack? Yammer? HipChat? Basecamp? Wikis? Blogs? Email newsletters?
 - What time
 
 # Products
