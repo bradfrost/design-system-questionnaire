@@ -12,8 +12,8 @@ A one-page questionnaire to help your organization establish effective design sy
 # Principles
 - **What design principles does your design system embrace?** [Design principles](https://principles.adactio.com/) underpin every aspect of the design system, and influence its construction. 
 
-Good resources about design principles:
-- [Style guides examples](http://styleguides.io/examples.html) - Many public style guides showcase their design principles
+Here are some good resources about design principles:
+- [Styleguides.io examples](http://styleguides.io/examples.html) - Many public style guides showcase their design principles
 - [Design principle roundup](https://principles.adactio.com/) by Jeremy Keith rounds up a ton of principles from a ton of different fields.
 - [Creating Design Principles](https://articles.uie.com/creating-design-principles/) - Jared Spool talks about the qualities of effective design principles.
 
@@ -24,15 +24,6 @@ Good resources about design principles:
 - **Who are the key stakeholders?** - Who will primarily affect or be affected by the design system?
 - **Who are secondary stakeholders?**
 - **Are there third parties involved?** - Are there any players outside of the organization (agencies, consultants, who will affect or be affected by the design system?
-
-# Communication
-- **What communication channels are used to talk about the design system?** - The design system should plug into the organization's existing communication structure. Slack? Yammer? HipChat? Basecamp? Wikis? Blogs? Email newsletters?
-- What time
-
-# Products
-
-- **What products will the design system serve?** - List the products the design system 
-- **Are there pilot projects meant to **
 
 ---------------
 
@@ -45,21 +36,31 @@ Good resources about design principles:
 - [ ] Pattern library - 
 - [ ] Code library - 
 
-- **What technologies are to be contained in the design system?** (Web, iOS, Android, Windows, etc)
 
----------------
+- Which 
 
-# Contributing 
-- **Who can contribute to the design system?** - Can every user directly contribute patterns or modifications to the design system's components and guidelines? Or is there a subset?
-- **What does the contributing process look like?** -
+# Products
+
+- **What products will the design system serve?** - List the products the design system will be applied to. 
+- **What are the design system's pilot projects?** - Pilot projects are often used to simultaneously create the pieces of the  design system while. Are there projects that should be used to construct the design system? Keep in mind that pilot projects should 
+- **What technologies does the design system apply to?** (Web, iOS, Android, Windows, etc) - Different products and organizations use different technologies. Is the design system only relevant to your organization's web properties?
 
 ---------------
 
 # Deployment
-- How are design system's components deployed into applications? See
+- **How are design system's components deployed into applications?** See
 [Chasing the Holy Grail: Strategies For Distributing Your Pattern Library and Keeping It in Sync](https://medium.com/@marcelosomers/chasing-the-holy-grail-bbc0b7cce365#.3gjztlqve) for various strategies on how to deploy
-- How is versioning handled?
-- How are dependencies managed?
+- **How is versioning handled?**
+- **How are dependencies managed?**
+---------------
+
+# Communication
+- **What communication channels are used to talk about the design system?** - The design system should plug into the organization's existing communication structure. Slack? Yammer? HipChat? Basecamp? Wikis? Blogs? Email newsletters?
+- **What steps are taken when the design system is updated?** Release notes? Blog post? Email newsletter? Smoke signals?
+
+# Contributing 
+- **Who can contribute to the design system?** - Can every user directly contribute patterns or modifications to the design system's components and guidelines? Or is there a subset?
+- **What does the contributing process look like?** - Pull requests? Prototyping. See [modifying patterns](http://atomicdesign.bradfrost.com/chapter-5/#making-changes-to-patterns)
 
 ---------------
 
@@ -68,5 +69,3 @@ Good resources about design principles:
 - **Where does your documentation live?** What are the links to the documentation?
 - **Who's responsible for maintaining and governing the documentation?**
 - **What happens when the guidelines are updated?**
-
-----------
