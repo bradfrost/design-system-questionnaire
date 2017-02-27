@@ -7,29 +7,30 @@ A one-page questionnaire to help your organization establish effective design sy
 ---------------
 
 # Parts
-What does the design system contain? I definitely recommend checking out Nathan Curtis's [Picking Parts, People, and Products](https://medium.com/eightshapes-llc/picking-parts-products-people-a06721e81742#.iy6eas2rw) for a great exercise to help prioritize what the system need to include.
+**A design system is a collection of components, guidelines, documentation, points of view, processes, and tools.** What ingredients does your organization's design system contain? I recommend checking out Nathan Curtis's [Picking Parts, People, and Products](https://medium.com/eightshapes-llc/picking-parts-products-people-a06721e81742#.iy6eas2rw) for a great exercise to help prioritize what the system need to include. 
 
-- [ ] Brand Identity - 
-- [ ] Design language -
-- [ ] Content - 
-- [ ] Writing - 
-- [ ] Pattern library - 
-- [ ] Code library - 
+Let's take a look at some of the assets
 
 ## Brand Identity
-- Does the design system . Logo guidelines, tagline, 
+- **Does the design system include brand identity elements?** - These guidelines include brand-wide elements such as logo, typography, color, 
+- **How does the design system make use of brand assets and elements?** - Is a
+
 
 ## Design language 
+- Design philosophy - Google's Material Design
 - Guidelines: Accessibility, performance, progressive enhancement, 
 
 ## Content
-- Voice and Tone
+- **Voice and Tone** - How your 
+  - [MailChimp's Voice and Tone](http://voiceandtone.com/)
+- **Writing guidelines - 
+- 
 
 ## Writing
 
 ## UI Components
 - What UI components are included 
-- Are you
+- **Does your team use a methodology to organize components?** Such as [atomic design](http://atomicdesign.bradfrost.com/chapter-2/#the-atomic-design-methodology)?
 
 ## Code Guidelines
 - Frontend guidelines - For more information, check out my [Frontend Guidelines Questionnaire](https://github.com/bradfrost/frontend-guidelines-questionnaire) that's similar in format to this questionnaire.
