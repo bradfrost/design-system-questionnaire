@@ -2,20 +2,9 @@
 A one-page questionnaire to help your organization establish effective design systems and style guides.
 
 # Basic Information
-
 - **What is the name of the design system?** - A catchy and rememberable name can help a solid design system gain traction. The name of the design system should embody the spirit of the organization and the system's underlying design principles. Fair warning: naming is hard. 
-- **Where does the style guide live?** - The style guide (the container that houses the guts of the design system) should live at an easy-to-access and easy-to-remember URL.
-- **Is your style guide publicly accessible?** (Yes, no, maybe, eventually). Making a style guide public [has many benefits](http://atomicdesign.bradfrost.com/chapter-5/#make-it-public).
 
 -------
-
-# Principles
-- **What design principles does your design system embrace?** [Design principles](https://principles.adactio.com/) underpin every aspect of the design system, and influence its construction. 
-
-Here are some good resources about design principles:
-- [Styleguides.io examples](http://styleguides.io/examples.html) - Many public style guides showcase their design principles
-- [Design principle roundup](https://principles.adactio.com/) by Jeremy Keith rounds up a ton of principles from a ton of different fields.
-- [Creating Design Principles](https://articles.uie.com/creating-design-principles/) - Jared Spool talks about the qualities of effective design principles.
 
 # People
 - **Who are the primary users of the design system?** Who are the people that will be primarily be implementing the system's components, reading guidelines, and referencing the information in the style guide?
@@ -52,6 +41,16 @@ Here are some good resources about design principles:
 
 ---------------
 
+# Principles
+- **What design principles does your design system embrace?** [Design principles](https://principles.adactio.com/) underpin every aspect of the design system, and influence its construction. 
+
+Here are some good resources about design principles:
+- [Styleguides.io examples](http://styleguides.io/examples.html) - Many public style guides showcase their design principles
+- [Design principle roundup](https://principles.adactio.com/) by Jeremy Keith rounds up a ton of principles from a ton of different fields.
+- [Creating Design Principles](https://articles.uie.com/creating-design-principles/) - Jared Spool talks about the qualities of effective design principles.
+
+---------------
+
 # Deployment
 - **How are design system's components deployed into applications?** See
 [Chasing the Holy Grail: Strategies For Distributing Your Pattern Library and Keeping It in Sync](https://medium.com/@marcelosomers/chasing-the-holy-grail-bbc0b7cce365#.3gjztlqve) for various strategies on how to deploy
@@ -63,14 +62,15 @@ Here are some good resources about design principles:
 - **What communication channels are used to talk about the design system?** - The design system should plug into the organization's existing communication structure. Slack? Yammer? HipChat? Basecamp? Wikis? Blogs? Email newsletters?
 - **What steps are taken when the design system is updated?** Release notes? Blog post? Email newsletter? Smoke signals?
 
+---------------
+
 # Contributing 
-- **Who can contribute to the design system?** - Can every user directly contribute patterns or modifications to the design system's components and guidelines? Or is there a subset?
-- **What does the contributing process look like?** - Pull requests? Prototyping. See [modifying patterns](http://atomicdesign.bradfrost.com/chapter-5/#making-changes-to-patterns)
+- **Who can contribute to the design system?** - Can every user directly contribute patterns or modifications to the design system's components and guidelines? Or is it on lockdown and only managed by a . On the spectrum from wipe open to lockdown, where does your design system stand?
+- **What does the contributing process look like?** - Pull requests? Simple feature requests? Prototypes? See [modifying patterns](http://atomicdesign.bradfrost.com/chapter-5/#making-changes-to-patterns)
 
 ---------------
 
-# Tools and Technologies
-- **Are you using a [pattern library tool](http://styleguides.io/tools.html) to document your front-end architecture?**
-- **Where does your documentation live?** What are the links to the documentation?
-- **Who's responsible for maintaining and governing the documentation?**
-- **What happens when the guidelines are updated?**
+# Style Guide
+- **Where does the style guide live?** - The style guide (the container that houses the guts of the design system) should live at an easy-to-access and easy-to-remember URL.
+- **Is your style guide publicly accessible?** (Yes, no, maybe, eventually). Making a style guide public [has many benefits](http://atomicdesign.bradfrost.com/chapter-5/#make-it-public).
+- **Are you using a [pattern library tool](http://styleguides.io/tools.html) to house your style guide?** - 
