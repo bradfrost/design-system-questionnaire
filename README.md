@@ -18,11 +18,16 @@ Here are some good resources about design principles:
 - [Creating Design Principles](https://articles.uie.com/creating-design-principles/) - Jared Spool talks about the qualities of effective design principles.
 
 # People
-- **Who are the primary users of the design system?** Who are the people who will be primarily be reading the guidelines, making use of components, and
-- **Who are the prmimary makers of the design system?** - Who is responsible for . Provide names and roles.
-- **Who is the primary owner of the design system?** - Who is the primary person responsible for the design system's success
-- **Who are the key stakeholders?** - Who will primarily affect or be affected by the design system?
-- **Who are secondary stakeholders?**
+- **Who are the primary users of the design system?** Who are the people that will be primarily be implementing the system's components, reading guidelines, and referencing the information in the style guide?
+- **Who are the secondary users of the design system?** Secondary users are people who may not rely on the system for their day-to-day work but may find the docuementation and information in the style guide useful.
+- **Who are the prmimary [design system makers](http://atomicdesign.bradfrost.com/chapter-5/#design-system-makers)?** - Who is responsible for creating and maintaining the design system? Provide names and roles. 
+- **How is the design system team structured?** Solidatary? Centralized? Federated? 
+  - [Team Models for Scaling a Design System Team](https://medium.com/eightshapes-llc/team-models-for-scaling-a-design-system-2cf9d03be6a0#.u9d11mefp)
+  - [The Salesforce Team Model for Scaling a Design System](https://medium.com/salesforce-ux/the-salesforce-team-model-for-scaling-a-design-system-d89c2a2d404b#.akuqars3c)
+  - [Establishing a Design System Team](http://atomicdesign.bradfrost.com/chapter-5/#establishing-a-design-system-team) 
+- **Who is the primary owner of the design system?** - Who is the primary person responsible for the design system's success or failure? This person is often in a senior leadership or director position.
+- **Who are the key stakeholders in the design systems?** - Who will primarily affect or be affected by the design system?
+- **Who are secondary stakeholders?** - Are there other people who either have 
 - **Are there third parties involved?** - Are there any players outside of the organization (agencies, consultants, who will affect or be affected by the design system?
 
 ---------------
