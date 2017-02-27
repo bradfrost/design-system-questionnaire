@@ -9,8 +9,9 @@ A one-page questionnaire to help your organization establish effective design sy
 # People
 - **Who are the primary users of the design system?** Who are the people that will be primarily be implementing the system's components, reading guidelines, and referencing the information in the style guide?
 - **Who are the secondary users of the design system?** Secondary users are people who may not rely on the system for their day-to-day work but may find the docuementation and information in the style guide useful.
+- **Are there teams or people in the organization that won't use the design system?** Why? What do they do instead?
 - **Who are the prmimary [design system makers](http://atomicdesign.bradfrost.com/chapter-5/#design-system-makers)?** - Who is responsible for creating and maintaining the design system? Provide names and roles. 
-- **How is the design system team structured?** Solidatary? Centralized? Federated? 
+- **How is the design system team structured?** Solidatary? Centralized? Federated? How the design system team is structured influences its adoptation and ongoing success. For more info, read: 
   - [Team Models for Scaling a Design System Team](https://medium.com/eightshapes-llc/team-models-for-scaling-a-design-system-2cf9d03be6a0#.u9d11mefp)
   - [The Salesforce Team Model for Scaling a Design System](https://medium.com/salesforce-ux/the-salesforce-team-model-for-scaling-a-design-system-d89c2a2d404b#.akuqars3c)
   - [Establishing a Design System Team](http://atomicdesign.bradfrost.com/chapter-5/#establishing-a-design-system-team) 
@@ -29,7 +30,6 @@ A one-page questionnaire to help your organization establish effective design sy
 - [ ] Writing - 
 - [ ] Pattern library - 
 - [ ] Code library - 
-
 
 - Which 
 
@@ -56,6 +56,7 @@ Here are some good resources about design principles:
 [Chasing the Holy Grail: Strategies For Distributing Your Pattern Library and Keeping It in Sync](https://medium.com/@marcelosomers/chasing-the-holy-grail-bbc0b7cce365#.3gjztlqve) for various strategies on how to deploy
 - **How is versioning handled?**
 - **How are dependencies managed?**
+
 ---------------
 
 # Communication
