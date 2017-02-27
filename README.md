@@ -23,19 +23,39 @@ A one-page questionnaire to help your organization establish effective design sy
 ---------------
 
 # Parts
+What does the design system contain? I definitely recommend checking out Nathan Curtis's [Picking Parts, People, and Products](https://medium.com/eightshapes-llc/picking-parts-products-people-a06721e81742#.iy6eas2rw) for a great exercise to help prioritize what the system need to include.
 
 - [ ] Brand Identity - 
 - [ ] Design language -
-- [ ] Voice and Tone - 
+- [ ] Content - 
 - [ ] Writing - 
 - [ ] Pattern library - 
 - [ ] Code library - 
 
-- Which 
+## Brand Identity
+- Does the design system . Logo guidelines, tagline, 
+
+## Design language 
+- 
+
+## Content
+- Voice and Tone
+
+## Writing
+
+## UI Components
+- What UI components are included 
+- Are you
+
+## Code Guidelines
+- Frontend guidelines - For more information, check out my [Frontend Guidelines Questionnaire](https://github.com/bradfrost/frontend-guidelines-questionnaire) that's similar in format to this questionnaire.
+
+---------------
 
 # Products
 
 - **What products will the design system serve?** - List the products the design system will be applied to. 
+- **Are there products that will not be served by the design system?** Why? What will those products use instead? List the products that won't make use of the design system and discuss why they won't
 - **What are the design system's pilot projects?** - Pilot projects are often used to simultaneously create the pieces of the  design system while. Are there projects that should be used to construct the design system? Keep in mind that pilot projects should 
 - **What technologies does the design system apply to?** (Web, iOS, Android, Windows, etc) - Different products and organizations use different technologies. Is the design system only relevant to your organization's web properties?
 
