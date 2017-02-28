@@ -1,7 +1,7 @@
 # Design System Questionnaire
 A one-page questionnaire to help your organization establish effective design systems and style guides.
 
-# Basic Information
+# Name
 - **What is the name of the design system?** - A catchy and rememberable name can help your design system gain traction. The name of the design system should embody the spirit of the organization and the system's underlying design principles. Fair warning: naming is hard. 
 
 ---------------
