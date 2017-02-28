@@ -9,16 +9,38 @@ A one-page questionnaire to help your organization establish effective design sy
 # Parts
 **A design system is a collection of components, guidelines, documentation, points of view, processes, and tools.** What ingredients does your organization's design system contain? I recommend checking out Nathan Curtis's [Picking Parts, People, and Products](https://medium.com/eightshapes-llc/picking-parts-products-people-a06721e81742#.iy6eas2rw) for a great exercise to help prioritize what the system need to include. 
 
-Let's take a look at some of the assets
+Let's take a look at some of the parts that your design system can include:
 
 ## Brand Identity
-- **Does the design system include brand identity elements?** - These guidelines include brand-wide elements such as logo, typography, color, 
-- **How does the design system make use of brand assets and elements?** - Is a
+- **Does the design system include brand identity elements?** - These guidelines include brand-wide elements such as logo, typography, color, tagline, marketing guidelines, etc.
+- **How does the design system make use of brand assets and elements?** - What is the relationship between the overall brand identity and UI components. D
+- **Are you using any third-party tools or services to manage brand assets?** - Some of these tools include:
+  - [Brand.ai](http://brand.ai/)
+  - [Frontify](https://frontify.com/)
+  
+## Principles
+- **What design principles does your design system embrace?** [Design principles](https://principles.adactio.com/) underpin every aspect of the design system, and influence its construction. 
 
+Here are some good resources about design principles:
+- [Styleguides.io examples](http://styleguides.io/examples.html) - Many public style guides showcase their design principles
+- [Design principle roundup](https://principles.adactio.com/) by Jeremy Keith rounds up a ton of principles from a ton of different fields.
+- [Creating Design Principles](https://articles.uie.com/creating-design-principles/) - Jared Spool talks about the qualities of effective design principles.
 
-## Design language 
-- Design philosophy - Google's Material Design
-- Guidelines: Accessibility, performance, progressive enhancement, 
+## High-level Guidelines
+What are some high-level guidelines you want to codify in the design system? Some examples may include:
+
+- Accessibility
+- Animation
+- Data display
+- Data entry
+- Data validation
+- Multi-device design
+- Layout
+- Navigation
+- Performance
+
+While these topics will manifest themselves in more concrete ways at the component level, it's often a good idea to explicitly express the organization's point of view on these topics at a high level.
+  
 
 ## Content
 - **Voice and Tone** - How your 
@@ -32,8 +54,13 @@ Let's take a look at some of the assets
 - What UI components are included 
 - **Does your team use a methodology to organize components?** Such as [atomic design](http://atomicdesign.bradfrost.com/chapter-2/#the-atomic-design-methodology)?
 
+## Workflows
+- If UI components are the 
+
 ## Code Guidelines
 - Frontend guidelines - For more information, check out my [Frontend Guidelines Questionnaire](https://github.com/bradfrost/frontend-guidelines-questionnaire) that's similar in format to this questionnaire.
+
+## Color
 
 ---------------
 
@@ -59,16 +86,6 @@ Let's take a look at some of the assets
 - **Are there products that will not be served by the design system?** Why? What will those products use instead? List the products that won't make use of the design system and discuss why they won't
 - **What are the design system's pilot projects?** - Pilot projects are often used to simultaneously create the pieces of the  design system while. Are there projects that should be used to construct the design system? Keep in mind that pilot projects should 
 - **What technologies does the design system apply to?** (Web, iOS, Android, Windows, etc) - Different products and organizations use different technologies. Is the design system only relevant to your organization's web properties?
-
----------------
-
-# Principles
-- **What design principles does your design system embrace?** [Design principles](https://principles.adactio.com/) underpin every aspect of the design system, and influence its construction. 
-
-Here are some good resources about design principles:
-- [Styleguides.io examples](http://styleguides.io/examples.html) - Many public style guides showcase their design principles
-- [Design principle roundup](https://principles.adactio.com/) by Jeremy Keith rounds up a ton of principles from a ton of different fields.
-- [Creating Design Principles](https://articles.uie.com/creating-design-principles/) - Jared Spool talks about the qualities of effective design principles.
 
 ---------------
 
