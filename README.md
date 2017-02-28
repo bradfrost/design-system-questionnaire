@@ -93,8 +93,8 @@ While these topics will manifest themselves in more concrete ways at the compone
   - [The Salesforce Team Model for Scaling a Design System](https://medium.com/salesforce-ux/the-salesforce-team-model-for-scaling-a-design-system-d89c2a2d404b#.akuqars3c)
   - [Establishing a Design System Team](http://atomicdesign.bradfrost.com/chapter-5/#establishing-a-design-system-team) 
 - **Who is the primary owner of the design system?** - Who is the primary person responsible for the design system's success or failure? This person is often in a senior leadership or director position.
-- **Who is responsible for allocating time, budget, and resources to the design system?**
-- **Who are the key stakeholders in the design systems?** - Who will primarily affect or be affected by the design system?
+- **Who is responsible for allocating time, budget, and resources to the design system initiative?**
+- **Who are the key stakeholders in the design systems?** - Who are the main players who will influence the direction of the design system? Key stakeholders may be included across a number of , but often heavily affect or be affected by the design system?
 - **Who are secondary stakeholders?** - Are there other people who either have 
 - **Are there third parties involved?** - Are there any players outside of the organization (agencies, consultants, who will affect or be affected by the design system?
 
@@ -103,7 +103,7 @@ While these topics will manifest themselves in more concrete ways at the compone
 # Products
 - **What products will the design system serve?** - List the products the design system will be applied to. 
 - **Are there products that will not be served by the design system?** Why? What will those products use instead? List the products that won't make use of the design system and discuss why they won't utilize the design system.
-- **What are the design system's pilot projects?** - Pilot projects are often used to simultaneously create the pieces of the  design system while implementing the new patterns. Are there projects that should be used to construct the design system? Keep in mind that pilot projects should 
+- **What are the design system's pilot projects?** - Pilot projects are often used to simultaneously create the pieces of the  design system while implementing the new patterns. Are there projects that should be used to construct the design system? Keep in mind that pilot projects should provide a cross-section of 
 - **What technologies does the design system apply to?** (Web, iOS, Android, Windows, etc) - Different products and organizations use different technologies. Is the design system only relevant to your organization's web properties?
 
 ---------------
@@ -111,15 +111,15 @@ While these topics will manifest themselves in more concrete ways at the compone
 # Deployment
 - **How are design system's components deployed into applications?** See
 [Chasing the Holy Grail: Strategies For Distributing Your Pattern Library and Keeping It in Sync](https://medium.com/@marcelosomers/chasing-the-holy-grail-bbc0b7cce365#.3gjztlqve) for various strategies on how to deploy
-- **How is versioning handled?**
-- **How are dependencies managed?**
+- **How is versioning handled?** - What versioning conventions do you adhere to when rolling out new updates to the design system. See [Semantic Versioning](http://semver.org/) for an example.
+- **How are dependencies managed?** 
 
 ---------------
 
 # Communication
 - **What communication channels are used to talk about the design system?** - The design system should plug into the organization's existing communication structure. Slack? Yammer? HipChat? Basecamp? Wikis? Blogs? Email newsletters?
 - **What steps are taken when the design system is updated?** Release notes? Blog post? Email newsletter? Smoke signals?
-- How are system changes communicated? 
+- **How are system changes communicated to end users?** How are users of your organization's applications notified when design system changes affect their experience? This may include release notes, blog posts, guided tours, videos, overlays, tweets, etc.
 
 ---------------
 
