@@ -7,7 +7,7 @@ A one-page questionnaire to help your organization establish effective design sy
 ---------------
 
 # Parts
-**A design system is a collection of components, guidelines, documentation, points of view, processes, and tools.** What ingredients does your organization's design system contain? I recommend checking out Nathan Curtis's [Picking Parts, People, and Products](https://medium.com/eightshapes-llc/picking-parts-products-people-a06721e81742#.iy6eas2rw) for a great exercise to help prioritize what the system need to include. 
+**A design system is a collection of components, guidelines, documentation, points of view, processes, and tools.** What ingredients should your organization's design system contain? No doubt your organization's structure, processes, and tools will all influence the design system's ingredients. I recommend checking out Nathan Curtis's [Picking Parts, People, and Products](https://medium.com/eightshapes-llc/picking-parts-products-people-a06721e81742#.iy6eas2rw) for a great exercise to help prioritize what the system should include. 
 
 Let's take a look at some of the parts that your design system can include:
 
