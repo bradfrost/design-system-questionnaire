@@ -41,12 +41,6 @@ What are some high-level guidelines you want to codify in the design system? Som
 
 While these topics will manifest themselves in more concrete ways at the component level, it's often a good idea to explicitly express the organization's point of view on these topics at a high level.
 
-## Color
-- Brand colors
-- Application colors
-- Neutral palette
-- Accessibility guidelines
-
 ## Content
 - **Do you have over-arching content strategy guidelines in place?**
 - **Do you follow writing guidelines?** - What conventions should people writing on behalf of your organization follow? Check out [Dalhousie University's writing for the web](https://www.dal.ca/webteam/web_style_guide/writing_for_the_web.html) guide for a great example.
@@ -56,12 +50,24 @@ While these topics will manifest themselves in more concrete ways at the compone
   - [Voice and tone guidelines on Styleguides.io](http://styleguides.io/examples.html#voiceandtone) - 
 - **Microcopy** - How does the team write effective [microcopy](https://uxplanet.org/microcopy-tiny-words-with-a-huge-ux-impact-90140acc6e42#.pxaae93xy) together? 
 
+## Color
+- Brand colors
+- Application colors
+- Neutral palette
+- Accessibility guidelines - [Design a Light & Dark Color System](https://medium.com/eightshapes-llc/light-dark-9f8ea42c9081#.mn7exfyhf)
+
+## Typography
+
+## Icons and Imagery
+
+## Motion
+
 ## UI Components
 - **What UI components are included in the system?** - Form fields, cards, tabs, and much more can be present in your organization's design system. Which UI components that  [Conducting an interface inventory](http://bradfrost.com/blog/post/conducting-an-interface-inventory/) can be a good way to determine which UI components should be codified in the design system.
 - **Does your team use a methodology to organize components?** Such as [atomic design](http://atomicdesign.bradfrost.com/chapter-2/#the-atomic-design-methodology)?
 
 ## Page templates
-- **Should the design system include common page templates?** dashboard, blog post, etc
+- **What page templates should be included in the design system?** Are there commonlly Portal, dashboard, homepage, blog post, etc that tend to get created. 
 
 ## Workflows
 - If UI components are the tools in the toolshed, then workflows are the common tasks you do with those tools.
@@ -87,6 +93,7 @@ While these topics will manifest themselves in more concrete ways at the compone
   - [The Salesforce Team Model for Scaling a Design System](https://medium.com/salesforce-ux/the-salesforce-team-model-for-scaling-a-design-system-d89c2a2d404b#.akuqars3c)
   - [Establishing a Design System Team](http://atomicdesign.bradfrost.com/chapter-5/#establishing-a-design-system-team) 
 - **Who is the primary owner of the design system?** - Who is the primary person responsible for the design system's success or failure? This person is often in a senior leadership or director position.
+- **Who is responsible for allocating time, budget, and resources to the design system?**
 - **Who are the key stakeholders in the design systems?** - Who will primarily affect or be affected by the design system?
 - **Who are secondary stakeholders?** - Are there other people who either have 
 - **Are there third parties involved?** - Are there any players outside of the organization (agencies, consultants, who will affect or be affected by the design system?
