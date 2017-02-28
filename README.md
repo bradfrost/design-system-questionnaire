@@ -12,14 +12,15 @@ A one-page questionnaire to help your organization establish effective design sy
 Let's take a look at some of the parts that your design system can include:
 
 ## Brand Identity
-- **Does the design system include brand identity elements?** - These guidelines include brand-wide elements such as logo, typography, color, tagline, marketing guidelines, etc.
-- **How does the design system make use of brand assets and elements?** - What is the relationship between the overall brand identity and UI components. D
+- **Where are brand identity guidelines managed?** - These  include brand-wide elements such as logo, typography, color, tagline, marketing guidelines, etc.
+- **What is the relationship between the overall brand identity and UI components?** - There may be a tight relationship between the brand guidelines and UI (i.e. buttons and logo are, and must be, the same color) or there may be a loose relationship (i.e. Material Design's guidelines and Google's brand guidelines are quite different).
+- 
 - **Are you using any third-party tools or services to manage brand assets?** - Some of these tools include:
   - [Brand.ai](http://brand.ai/)
   - [Frontify](https://frontify.com/)
   
 ## Principles
-- **What design principles does your design system embrace?** [Design principles](https://principles.adactio.com/) underpin every aspect of the design system, and influence its construction. 
+- **What design principles does your design system embrace?** Design principles underpin every aspect of the design system, and influence its construction. 
 
 Here are some good resources about design principles:
 - [Styleguides.io examples](http://styleguides.io/examples.html) - Many public style guides showcase their design principles
@@ -42,7 +43,10 @@ What are some high-level guidelines you want to codify in the design system? Som
 While these topics will manifest themselves in more concrete ways at the component level, it's often a good idea to explicitly express the organization's point of view on these topics at a high level.
 
 ## Color
-- 
+- Brand colors
+- Application colors
+- Neutral palette
+- Accessibility guidelines
 
 ## Content
 - **Do you have over-arching content strategy guidelines in place?**
@@ -91,10 +95,9 @@ While these topics will manifest themselves in more concrete ways at the compone
 ----------
 
 # Products
-
 - **What products will the design system serve?** - List the products the design system will be applied to. 
-- **Are there products that will not be served by the design system?** Why? What will those products use instead? List the products that won't make use of the design system and discuss why they won't
-- **What are the design system's pilot projects?** - Pilot projects are often used to simultaneously create the pieces of the  design system while. Are there projects that should be used to construct the design system? Keep in mind that pilot projects should 
+- **Are there products that will not be served by the design system?** Why? What will those products use instead? List the products that won't make use of the design system and discuss why they won't utilize the design system.
+- **What are the design system's pilot projects?** - Pilot projects are often used to simultaneously create the pieces of the  design system while implementing the new patterns. Are there projects that should be used to construct the design system? Keep in mind that pilot projects should 
 - **What technologies does the design system apply to?** (Web, iOS, Android, Windows, etc) - Different products and organizations use different technologies. Is the design system only relevant to your organization's web properties?
 
 ---------------
@@ -110,6 +113,7 @@ While these topics will manifest themselves in more concrete ways at the compone
 # Communication
 - **What communication channels are used to talk about the design system?** - The design system should plug into the organization's existing communication structure. Slack? Yammer? HipChat? Basecamp? Wikis? Blogs? Email newsletters?
 - **What steps are taken when the design system is updated?** Release notes? Blog post? Email newsletter? Smoke signals?
+- How are system changes communicated? 
 
 ---------------
 
