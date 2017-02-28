@@ -14,7 +14,6 @@ Let's take a look at some of the parts that your design system can include:
 ## Brand Identity
 - **Where are brand identity guidelines managed?** - These  include brand-wide elements such as logo, typography, color, tagline, marketing guidelines, etc.
 - **What is the relationship between the overall brand identity and UI components?** - There may be a tight relationship between the brand guidelines and UI (i.e. buttons and logo are, and must be, the same color) or there may be a loose relationship (i.e. Material Design's guidelines and Google's brand guidelines are quite different).
-- 
 - **Are you using any third-party tools or services to manage brand assets?** - Some of these tools include:
   - [Brand.ai](http://brand.ai/)
   - [Frontify](https://frontify.com/)
