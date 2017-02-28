@@ -67,15 +67,15 @@ While these topics will manifest themselves in more concrete ways at the compone
 - **Does your team use a methodology to organize components?** Such as [atomic design](http://atomicdesign.bradfrost.com/chapter-2/#the-atomic-design-methodology)?
 
 ## Page templates
-- **What page templates should be included in the design system?** Are there commonlly Portal, dashboard, homepage, blog post, etc that tend to get created. 
+- **What page templates should be included in the design system?** Are there common page templates your organization creates time and time again? Templates for portals, dashboards, homepages, blog posts, etc may be good to codify 
 
 ## Workflows
-- If UI components are the tools in the toolshed, then workflows are the common tasks you do with those tools.
-  - Sign up
+If UI components are the tools in the toolshed, then workflows are the common tasks you perform with those tools.
+
+- **What workflows should be included in the design system?** Sign up
   - Authentication
   - Ecommerce checkout
   - Multi-step form
-  
 
 ## Code Guidelines
 - Frontend guidelines - For more information, check out my [Frontend Guidelines Questionnaire](https://github.com/bradfrost/frontend-guidelines-questionnaire) that's similar in format to this questionnaire.
