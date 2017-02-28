@@ -40,27 +40,37 @@ What are some high-level guidelines you want to codify in the design system? Som
 - Performance
 
 While these topics will manifest themselves in more concrete ways at the component level, it's often a good idea to explicitly express the organization's point of view on these topics at a high level.
-  
 
-## Content
-- **Voice and Tone** - How your 
-  - [MailChimp's Voice and Tone](http://voiceandtone.com/)
-- **Writing guidelines - 
+## Color
 - 
 
-## Writing
+## Content
+- **Do you have over-arching content strategy guidelines in place?**
+- **Do you follow writing guidelines?** - What conventions should people writing on behalf of your organization follow? Check out [Dalhousie University's writing for the web](https://www.dal.ca/webteam/web_style_guide/writing_for_the_web.html) guide for a great example.
+- **Do you have voice and tone guideslines in place?** - What qualities does your brand's voice embrace? How does your brand's tone change based on audience, context, and environment? The answers to these questions should be embodied in the voice and tone guidelines. For inspiration, check out:
+  - [MailChimp's Voice and Tone](http://voiceandtone.com/)
+  - [MailChimp's Content Style Guide](http://styleguide.mailchimp.com/voice-and-tone/)
+  - [oice and tone guidelines on Styleguides.io](http://styleguides.io/examples.html#voiceandtone) - 
+- **Microcopy** - How does the team write effective [microcopy](https://uxplanet.org/microcopy-tiny-words-with-a-huge-ux-impact-90140acc6e42#.pxaae93xy) together? 
 
 ## UI Components
-- What UI components are included 
+- **What UI components are included in the system?** - Form fields, cards, tabs, and much more can be present in your organization's design system. Which UI components that  [Conducting an interface inventory](http://bradfrost.com/blog/post/conducting-an-interface-inventory/) can be a good way to determine which UI components should be codified in the design system.
 - **Does your team use a methodology to organize components?** Such as [atomic design](http://atomicdesign.bradfrost.com/chapter-2/#the-atomic-design-methodology)?
 
+## Page templates
+- **Should the design system include common page templates?** dashboard, blog post, etc
+
 ## Workflows
-- If UI components are the 
+- If UI components are the tools in the toolshed, then workflows are the common tasks you do with those tools.
+  - Sign up
+  - Authentication
+  - Ecommerce checkout
+  - Multi-step form
+  
 
 ## Code Guidelines
 - Frontend guidelines - For more information, check out my [Frontend Guidelines Questionnaire](https://github.com/bradfrost/frontend-guidelines-questionnaire) that's similar in format to this questionnaire.
-
-## Color
+- **Code language style guides** - Which backend technologies are in use at your organization (PHP, Ruby, .NET? Are there style guides available to help the team write more cohesive code together? 
 
 ---------------
 
