@@ -32,7 +32,7 @@ Here are some good resources about design principles:
 - [Creating Design Principles](https://articles.uie.com/creating-design-principles/) - Jared Spool talks about the qualities of effective design principles.
 
 ## High-level Guidelines
-What are some high-level guidelines you want to codify in the design system? Some examples may include:
+What are some high-level guidelines you want to provide in the design system? Some examples may include:
 
 - Accessibility
 - Animation
