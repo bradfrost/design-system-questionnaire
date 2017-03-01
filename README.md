@@ -1,6 +1,11 @@
 # Design System Questionnaire
 A one-page questionnaire to help your organization establish effective design systems and style guides.
 
+# Goals
+- **What are the goals you want to accomplish in establishing a design system?** - The [benefits of design systems](http://atomicdesign.bradfrost.com/chapter-1/#style-guide-benefits) are many, but what specifically are the goals of your organization's design system initiative?
+
+---------------
+
 # Name
 - **What is the name of the design system?** - A catchy and rememberable name can help your design system gain traction. The name of the design system should embody the spirit of the organization and the system's underlying design principles. Fair warning: naming is hard. 
 
@@ -124,12 +129,13 @@ If UI components are the tools in the toolshed, then workflows are the common ta
 ---------------
 
 # Contributing 
-- **Who can contribute to the design system?** - Can every user directly contribute patterns or modifications to the design system's components and guidelines? Or is it on lockdown and only managed by a . On the spectrum from wipe open to lockdown, where does your design system stand?
-- **What does the contributing process look like?** - Pull requests? Simple feature requests? Prototypes? See [modifying patterns](http://atomicdesign.bradfrost.com/chapter-5/#making-changes-to-patterns)
+- **Who can contribute to the design system?** - Can every user directly contribute patterns or modifications to the design system's components and guidelines? Or is it only managed by a select few? On the spectrum from wipe open to complete lockdown, where does your design system stand?
+- **What does the contributing process look like?** - Pull requests? Simple feature requests? Prototypes? What process should people expect to follow in order to propose fixing a bug, extending a pattern, adding a new  
+See [modifying patterns](http://atomicdesign.bradfrost.com/chapter-5/#making-changes-to-patterns) for more info.
 
 ---------------
 
 # Style Guide
 - **Where does the style guide live?** - The style guide (the container that houses the guts of the design system) should live at an easy-to-access and easy-to-remember URL.
 - **Is your style guide publicly accessible?** (Yes, no, maybe, eventually). Making a style guide public [has many benefits](http://atomicdesign.bradfrost.com/chapter-5/#make-it-public).
-- **Are you using a [pattern library tool](http://styleguides.io/tools.html) to house your style guide?** - 
+- **Are you using a [pattern library tool](http://styleguides.io/tools.html) to house your style guide?** - What tech is your style guide built on? What's its relationship to the 
