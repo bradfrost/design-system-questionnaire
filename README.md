@@ -28,6 +28,7 @@ Let's take a look at some of the parts that your design system can include:
 
 Here are some good resources about design principles:
 - [Styleguides.io examples](http://styleguides.io/examples.html) - Many public style guides showcase their design principles
+- [Design Principles FTW](http://www.designprinciplesftw.com/) - A big collection of design principles.
 - [Design principle roundup](https://principles.adactio.com/) by Jeremy Keith rounds up a ton of principles from a ton of different fields.
 - [Creating Design Principles](https://articles.uie.com/creating-design-principles/) - Jared Spool talks about the qualities of effective design principles.
 
