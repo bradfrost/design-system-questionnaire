@@ -24,7 +24,7 @@ Let's take a look at some of the parts that your design system can include:
   - [Frontify](https://frontify.com/)
   
 ## Principles
-- **What design principles does your design system embrace?** Design principles underpin every aspect of the design system, and influence its construction. 
+- **What design principles does your design system embrace?** Design principles underpin every aspect of the design system, and influence its construction. They should jive with your organization's broader mission and culture, and your design principles should be easily understood by everyone doing work with the design system.
 
 Here are some good resources about design principles:
 - [Styleguides.io examples](http://styleguides.io/examples.html) - Many public style guides showcase their design principles
