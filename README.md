@@ -65,8 +65,13 @@ While these topics will manifest themselves in more concrete ways at the compone
 ## Typography
 
 ## Icons and Imagery
+= **How are icons served in your products?** Icon fonts? Inline SVG? SVG sprites? PNGs?
+= **Where are icons sourced?** In house or third party? Open source or proprietary? 
+- **What’s the process for updating an icon in the system?**
+= **What tools are used to create and manage icons?** This includes graphics programs like Illustrator and Sketch, but also icon management services like [Icomoon](https://icomoon.io/).   
 
 ## Motion
+- **What are your guidelines for using motion and animation in your design system?** [Animation in your style guide](http://valhead.com/2015/07/09/animation-in-your-style-guide/)
 
 ## UI Components
 - **What UI components are included in the system?** - Form fields, cards, tabs, and much more can be present in your organization's design system. Which UI components that  [Conducting an interface inventory](http://bradfrost.com/blog/post/conducting-an-interface-inventory/) can be a good way to determine which UI components should be codified in the design system.
