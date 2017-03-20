@@ -56,6 +56,7 @@ embrace? How does your brand's tone change based on audience, context, and envir
   - [MailChimp's Content Style Guide](http://styleguide.mailchimp.com/voice-and-tone/)
   - [Voice and tone guidelines on Styleguides.io](http://styleguides.io/examples.html#voiceandtone) - 
   - [The Most Misunderstood Part of a Design System](https://medium.com/@alanweibel/the-most-misunderstood-part-of-a-design-system-fba520c1d292#.b1gju74ny)
+  - [Take a closer look at the patterns in our language.](https://clearleft.com/posts/442) - Great article by Clearleft about establishing voice and tone principles and applying them to a product.
 - **Microcopy** - How does the team write effective [microcopy](https://uxplanet.org/microcopy-tiny-words-with-a-huge-ux-impact-90140acc6e42#.pxaae93xy) together? 
 
 ## Color
