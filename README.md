@@ -95,6 +95,9 @@ If UI components are the tools in the toolshed, then workflows are the common ta
 - Frontend guidelines - For more information, check out my [Frontend Guidelines Questionnaire](https://github.com/bradfrost/frontend-guidelines-questionnaire) that's similar in format to this questionnaire.
 - **Code language style guides** - Which backend technologies are in use at your organization (PHP, Ruby, .NET? Are there style guides available to help the team write more cohesive code together? 
 
+## Tools
+- **Static design tools?** UI toolkits for Sketch, Photoshop, etc
+
 ---------------
 
 # People
