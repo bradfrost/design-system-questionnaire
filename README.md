@@ -50,10 +50,12 @@ While these topics will manifest themselves in more concrete ways at the compone
 ## Content
 - **Do you have over-arching content strategy guidelines in place?**
 - **Do you follow writing guidelines?** - What conventions should people writing on behalf of your organization follow? Check out [Dalhousie University's writing for the web](https://www.dal.ca/webteam/web_style_guide/writing_for_the_web.html) guide for a great example.
-- **Do you have voice and tone guidelines in place?** - What qualities does your brand's voice embrace? How does your brand's tone change based on audience, context, and environment? The answers to these questions should be embodied in the voice and tone guidelines. For inspiration, check out:
+- **Do you have voice and tone guidelines in place?** - What qualities does your brand's 
+embrace? How does your brand's tone change based on audience, context, and environment? The answers to these questions should be embodied in the voice and tone guidelines. For inspiration, check out:
   - [MailChimp's Voice and Tone](http://voiceandtone.com/)
   - [MailChimp's Content Style Guide](http://styleguide.mailchimp.com/voice-and-tone/)
   - [Voice and tone guidelines on Styleguides.io](http://styleguides.io/examples.html#voiceandtone) - 
+  - [The Most Misunderstood Part of a Design System](https://medium.com/@alanweibel/the-most-misunderstood-part-of-a-design-system-fba520c1d292#.b1gju74ny)
 - **Microcopy** - How does the team write effective [microcopy](https://uxplanet.org/microcopy-tiny-words-with-a-huge-ux-impact-90140acc6e42#.pxaae93xy) together? 
 
 ## Color
