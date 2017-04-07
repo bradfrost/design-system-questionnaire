@@ -31,6 +31,7 @@ Here are some good resources about design principles:
 - [Design Principles FTW](http://www.designprinciplesftw.com/) - A big collection of design principles.
 - [Design principle roundup](https://principles.adactio.com/) by Jeremy Keith rounds up a ton of principles from a ton of different fields.
 - [Creating Design Principles](https://articles.uie.com/creating-design-principles/) - Jared Spool talks about the qualities of effective design principles.
+- [Shaping Our Design Principles](https://medium.com/building-creative-market/shaping-our-design-principles-3474d6f5204b)
 
 ## High-level Guidelines
 What are some high-level guidelines you want to provide in the design system? Some examples may include:
