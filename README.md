@@ -1,17 +1,19 @@
 # Design System Questionnaire
 A one-page questionnaire to help your organization establish effective design systems and style guides.
 
-# Goals
+# Why
+- **Why do you want to create a design system?** What problems are you currently having
+
+## Goals
 - **What are the goals you want to accomplish in establishing a design system?** - The [benefits of design systems](http://atomicdesign.bradfrost.com/chapter-1/#style-guide-benefits) are many, but what specifically are the goals of your organization's design system initiative?
+- What will happen if this is a 
 
 ---------------
 
-# Name
+# What
 - **What is the name of the design system?** - A catchy and memorable name can help your design system gain traction. The name of the design system should embody the spirit of the organization and the system's underlying design principles. Fair warning: naming is hard. 
 
----------------
-
-# Parts
+## What does the design system include?
 **A design system is a collection of components, guidelines, documentation, points of view, processes, and tools.** What ingredients should your organization's design system contain? No doubt your organization's structure, processes, and tools will all influence the design system's ingredients. I recommend checking out Nathan Curtis's [Picking Parts, People, and Products](https://medium.com/eightshapes-llc/picking-parts-products-people-a06721e81742#.iy6eas2rw) for a great exercise to help prioritize what the system should include. 
 
 Let's take a look at some of the parts that your design system can include:
