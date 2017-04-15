@@ -114,7 +114,7 @@ If UI components are the tools in the toolshed, then workflows are the common ta
   - [Establishing a Design System Team](http://atomicdesign.bradfrost.com/chapter-5/#establishing-a-design-system-team) 
 - **Who is the primary owner of the design system?** - Who is the primary person responsible for the design system's success or failure? This person is often in a senior leadership or director position.
 - **Who is responsible for allocating time, budget, and resources to the design system initiative?**
-- **Who are the key stakeholders in the design systems?** - Who are the main players who will influence the direction of the design system? Key stakeholders may be included across a number of , but often heavily affect or be affected by the design system?
+- **Who are the key stakeholders in the design systems?** - "The stakeholder concept emerged in a 1963 internal memoran- dum at the Stanford Research Institute. It de ned stakeholders as “those groups without whose support the organization would cease to exist.” Your research should include anyone without whose support your project will fail. This might include executives, managers, subject matter experts, as well as sta  in various roles." -Erika Hall
 - **Who are secondary stakeholders?** - Are there other people who either have 
 - **Are there third parties involved?** - Are there any players outside of the organization (agencies, consultants, who will affect or be affected by the design system?
 
