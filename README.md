@@ -2,11 +2,11 @@
 A one-page questionnaire to help your organization establish effective design systems and style guides.
 
 # Why
-- **Why do you want to create a design system?** What problems are you currently having
+- **Why do you want to create a design system?** What problems does the design system need to address in your organization?
 
 ## Goals
 - **What are the goals you want to accomplish in establishing a design system?** - The [benefits of design systems](http://atomicdesign.bradfrost.com/chapter-1/#style-guide-benefits) are many, but what specifically are the goals of your organization's design system initiative?
-- What will happen if this is a 
+- What will happen if this initiative fails?
 
 ---------------
 
