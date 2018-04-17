@@ -9,8 +9,7 @@ A one-page questionnaire to help your organization establish effective design sy
 6. Maintain
 
 -------
-# Step 1: Sell
--------
+# 1. Sell
 
 ## Problems and Opportunities
 **Why do you want to create a design system?** What problems does the design system need to address in your organization?
@@ -25,8 +24,7 @@ A one-page questionnaire to help your organization establish effective design sy
 **Who's doing the convincing?** Who is involved at convincing stakeholders, management, securing funding, etc?
 
 -------
-# Step 2: Kickoff
--------
+# 2. Kickoff
 
 ## User Research
 Who are the users of the design system? It's important to understand the needs of the people who will be affected by the design system. Conducting interviews with makers, users, and stakeholders helps the team better understand what the design system needs to be in order to be successful.
@@ -38,37 +36,59 @@ Who are the users of the design system? It's important to understand the needs o
 What are the broad themes
 
 ## Kickoff workshop
-- **Who needs to be present at the kickoff workshop?** - The kickoff workshop is where broad consensus about the 
-- What are the shared priorities**
+The kickoff workshop is where broad consensus happens.
 
-# Step 3: Plan
+**Who needs to be present at the kickoff workshop?** Which stakeholders
+ 
+**What are the shared outcomes and priorities of the design system initiative?** These outcomes should be grounded in research.
+
+Who is responsible for moving 
+
+# 3. Plan
 -------
 
-- What technologies will
+## Products
+**What products will the design system serve?** - List the products the design system will be applied to. 
 
-## Pilot projects
-- Which pilot 
+**Are there products that will not be served by the design system?** Why? What will those products use instead? List the products that won't make use of the design system and discuss why they won't utilize the design system.
 
-# Step 4: Design & Build
+**What are the design system's pilot projects?** - Design system pilot projects put the design system through its paces as it's being constructed. Which projects Keep in mind that pilot projects should provide a healthy cross-section of components, patterns, technologies, processes, and people. Read Dan Mall's [Design System: Pilots and Scorecards](http://danmall.me/articles/design-systems-pilots-scorecards/) for criteria for choosing design system scorecards.
+
+## Technology
+**What platforms does the design system apply to?** (Web, iOS, Android, Windows, etc)
+
+
+
+
+## Code Guidelines
+**What frontend guidelines does the design system follow?** Frontend guidelines - For more information, check out [Frontend Guidelines Questionnaire](https://github.com/bradfrost/frontend-guidelines-questionnaire) that's similar in format to this questionnaire.
+
+**Code language style guides** - Which backend technologies are in use at your organization (PHP, Ruby, .NET? Are there style guides available to help the team write more cohesive code together? 
+
 -------
+# 4. Design & Build
 
 
 
+awe
 
------------
+----
 
-# Step 5: Launch
+# 5. Launch
+
+**What is the name of the design system?** - A catchy and memorable name can help your design system gain traction. The name of the design system should embody the spirit of the organization and the system's underlying design principles. Fair warning: naming is hard. 
+
+**Where does the style guide live?** - The style guide (the container that houses the guts of the design system) should live at an easy-to-access and easy-to-remember URL (i.e. designsystem.yourcompany.com)
+
+**Is your style guide publicly accessible?** (Yes, no, maybe, eventually). Making a style guide public [has many benefits](http://atomicdesign.bradfrost.com/chapter-5/#make-it-public).
+
+**What [tool](http://styleguides.io/tools.html) are you using to house your style guide?** - What tech is your style guide built on? What's its relationship to the style guide website to the components that make up your design system? 
+
+**How will the design system be announced?** - How will people find out about the new design system?
+
 -------
+# 6. Maintain
 
-## Style guide
-- **Where does the style guide live?** - The style guide (the container that houses the guts of the design system) should live at an easy-to-access and easy-to-remember URL (i.e. designsystem.yourcompany.com)
-- **Is your style guide publicly accessible?** (Yes, no, maybe, eventually). Making a style guide public [has many benefits](http://atomicdesign.bradfrost.com/chapter-5/#make-it-public).
-- **What [tool](http://styleguides.io/tools.html) are you using to house your style guide?** - What tech is your style guide built on? What's its relationship to the style guide website to the components that make up your design system? 
-
-- **How will the design system be announced?** - How will people find out about the new design system?
-
-# Step 6: Maintain
--------
 
 ## Team
 - **Who are the design system makers?** - 
@@ -102,17 +122,9 @@ What are the broad themes
 
 
 
-# Why
-- **Why do you want to create a design system?** What problems does the design system need to address in your organization?
 
-## Goals
-- **What are the goals you want to accomplish in establishing a design system?** - The [benefits of design systems](http://atomicdesign.bradfrost.com/chapter-1/#style-guide-benefits) are many, but what specifically are the goals of your organization's design system initiative?
-- **What will happen if this initiative fails?** - 
 
 ---------------
-
-# What
-- **What is the name of the design system?** - A catchy and memorable name can help your design system gain traction. The name of the design system should embody the spirit of the organization and the system's underlying design principles. Fair warning: naming is hard. 
 
 ## What does the design system include?
 **A design system is a collection of components, guidelines, documentation, points of view, processes, and tools.** What ingredients should your organization's design system contain? No doubt your organization's structure, processes, and tools will all influence the design system's ingredients. I recommend checking out Nathan Curtis's [Picking Parts, People, and Products](https://medium.com/eightshapes-llc/picking-parts-products-people-a06721e81742#.iy6eas2rw) for a great exercise to help prioritize what the system should include. 
@@ -195,9 +207,7 @@ If UI components are the tools in the toolshed, then workflows are the common ta
   - Ecommerce checkout
   - Multi-step form
 
-## Code Guidelines
-- Frontend guidelines - For more information, check out my [Frontend Guidelines Questionnaire](https://github.com/bradfrost/frontend-guidelines-questionnaire) that's similar in format to this questionnaire.
-- **Code language style guides** - Which backend technologies are in use at your organization (PHP, Ruby, .NET? Are there style guides available to help the team write more cohesive code together? 
+
 
 ## Tools
 - **Static design tools?** UI toolkits for Sketch, Photoshop, etc
@@ -221,11 +231,7 @@ If UI components are the tools in the toolshed, then workflows are the common ta
 
 ----------
 
-# Products
-- **What products will the design system serve?** - List the products the design system will be applied to. 
-- **Are there products that will not be served by the design system?** Why? What will those products use instead? List the products that won't make use of the design system and discuss why they won't utilize the design system.
-- **What are the design system's pilot projects?** - Pilot projects are often used to simultaneously create the pieces of the  design system while implementing the new patterns. Are there projects that should be used to construct the design system? Keep in mind that pilot projects should provide a cross-section of 
-- **What technologies does the design system apply to?** (Web, iOS, Android, Windows, etc) - Different products and organizations use different technologies. Is the design system only relevant to your organization's web properties?
+
 
 ---------------
 
