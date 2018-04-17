@@ -1,12 +1,113 @@
 # Design System Questionnaire
-A one-page questionnaire to help your organization establish effective design systems and style guides.
+A one-page questionnaire to help your organization establish effective design systems and style guides. The sections are broken down into the broad process of creating a successful design system:
+
+1. Sell
+2. Kickoff
+3. Plan
+4. Design and Build
+5. Launch
+6. Maintain
+
+-------
+# Step 1: Sell
+-------
+
+## Problems and Opportunities
+**Why do you want to create a design system?** What problems does the design system need to address in your organization?
+
+**What are the goals you want to accomplish in establishing a design system?** - The [benefits of design systems](http://atomicdesign.bradfrost.com/chapter-1/#style-guide-benefits) are many, but what specifically are the goals of your organization's design system initiative?
+
+**What will happen if this initiative fails?**
+
+## People
+**Who needs convinced?** Which departments or people in your organization need convinced that establishing a design system is a good idea? 
+
+**Who's doing the convincing?** Who is involved at convincing stakeholders, management, securing funding, etc?
+
+-------
+# Step 2: Kickoff
+-------
+
+## User Research
+Who are the users of the design system? It's important to understand the needs of the people who will be affected by the design system. Conducting interviews with makers, users, and stakeholders helps the team better understand what the design system needs to be in order to be successful.
+
+**Who will conduct the user research interviews?** - Who will conduct design system stakeholder interviews?
+
+**Who will be interviewed?** - It's important to interview a healthy cross-section of product teams, disciplines, skill levels, and perspectives in order to ensure the design system initiative properly serves the organization.
+
+What are the broad themes
+
+## Kickoff workshop
+- **Who needs to be present at the kickoff workshop?** - The kickoff workshop is where broad consensus about the 
+- What are the shared priorities**
+
+# Step 3: Plan
+-------
+
+- What technologies will
+
+## Pilot projects
+- Which pilot 
+
+# Step 4: Design & Build
+-------
+
+
+
+
+-----------
+
+# Step 5: Launch
+-------
+
+## Style guide
+- **Where does the style guide live?** - The style guide (the container that houses the guts of the design system) should live at an easy-to-access and easy-to-remember URL (i.e. designsystem.yourcompany.com)
+- **Is your style guide publicly accessible?** (Yes, no, maybe, eventually). Making a style guide public [has many benefits](http://atomicdesign.bradfrost.com/chapter-5/#make-it-public).
+- **What [tool](http://styleguides.io/tools.html) are you using to house your style guide?** - What tech is your style guide built on? What's its relationship to the style guide website to the components that make up your design system? 
+
+- **How will the design system be announced?** - How will people find out about the new design system?
+
+# Step 6: Maintain
+-------
+
+## Team
+- **Who are the design system makers?** - 
+- **Who are the design system users?** -
+- **Who approves changes to the system?** - 
+- **If a component needs added or modified, who does that work?** - Does the design system team (makers) handle all changes? Do individual product teams make changes/additions and submit them for approval? 
+
+
+## Communication
+- **What communication channels are used to talk about the design system?** - The design system should plug into the organization's existing communication structure. Slack? Yammer? HipChat? Basecamp? Wikis? Blogs? Email newsletters?
+- **What steps are taken when the design system is updated?** Release notes? Blog post? Email newsletter? Smoke signals?
+- **How are system changes communicated to end users?** How are users of your organization's applications notified when design system changes affect their experience? This may include release notes, blog posts, guided tours, videos, overlays, tweets, etc.
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------
+
+
+
+
+
+
 
 # Why
 - **Why do you want to create a design system?** What problems does the design system need to address in your organization?
 
 ## Goals
 - **What are the goals you want to accomplish in establishing a design system?** - The [benefits of design systems](http://atomicdesign.bradfrost.com/chapter-1/#style-guide-benefits) are many, but what specifically are the goals of your organization's design system initiative?
-- What will happen if this initiative fails?
+- **What will happen if this initiative fails?** - 
 
 ---------------
 
@@ -136,21 +237,13 @@ If UI components are the tools in the toolshed, then workflows are the common ta
 
 ---------------
 
-# Communication
-- **What communication channels are used to talk about the design system?** - The design system should plug into the organization's existing communication structure. Slack? Yammer? HipChat? Basecamp? Wikis? Blogs? Email newsletters?
-- **What steps are taken when the design system is updated?** Release notes? Blog post? Email newsletter? Smoke signals?
-- **How are system changes communicated to end users?** How are users of your organization's applications notified when design system changes affect their experience? This may include release notes, blog posts, guided tours, videos, overlays, tweets, etc.
+
 
 ---------------
 
 # Contributing 
 - **Who can contribute to the design system?** - Can every user directly contribute patterns or modifications to the design system's components and guidelines? Or is it only managed by a select few? On the spectrum from wipe open to complete lockdown, where does your design system stand?
-- **What does the contributing process look like?** - Pull requests? Simple feature requests? Prototypes? What process should people expect to follow in order to propose fixing a bug, extending a pattern, adding a new  
+- **What does the contribution process look like?** - Pull requests? Simple feature requests? Prototypes? What process should people expect to follow in order to propose fixing a bug, extending a pattern, adding a new  
 See [modifying patterns](http://atomicdesign.bradfrost.com/chapter-5/#making-changes-to-patterns) for more info.
 
 ---------------
-
-# Style Guide
-- **Where does the style guide live?** - The style guide (the container that houses the guts of the design system) should live at an easy-to-access and easy-to-remember URL.
-- **Is your style guide publicly accessible?** (Yes, no, maybe, eventually). Making a style guide public [has many benefits](http://atomicdesign.bradfrost.com/chapter-5/#make-it-public).
-- **Are you using a [pattern library tool](http://styleguides.io/tools.html) to house your style guide?** - What tech is your style guide built on? What's its relationship to the 
