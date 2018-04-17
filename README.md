@@ -67,6 +67,8 @@ Here are some good resources about design principles:
 ## Technology
 **What platforms does the design system apply to?** (Web, iOS, Android, Windows, etc)
 
+**What web technologies does the design system need to consider?** React, Angular, Drupal, WordPress, Handlebars, Twig, Jade, etc, etc.
+
 
 
 
